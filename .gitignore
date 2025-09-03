@@ -1,0 +1,48 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+venv/
+env/
+*.conda
+*.egg-info/
+*.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / PyCharm / IDE
+.vscode/
+.idea/
+
+# Data files
+data/raw/
+data/interim/
+data/processed/
+*.csv
+*.xlsx
+*.json
+
+# Model files
+models/
+*.h5
+*.pt
+*.bin
+*.joblib
+*.pickle
+
+# Streamlit cache
+.streamlit/
+
+# Logs & outputs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db

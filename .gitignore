@@ -46,3 +46,5 @@ logs/
 # System files
 .DS_Store
 Thumbs.db
+*.ipynb linguist-detectable=false
+
